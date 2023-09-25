@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Diego Ramos</h1>
-<h3 align="center">I'm passionate about mobile application programming and cybersecurity</h3>
+
+<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lora&weight=600&size=22&duration=3500&pause=500&color=3BA944&background=0C311500&width=435&height=100&lines=Junior+mobile+application+developer;React+Native+and+JS" alt="Typing SVG" /></a></p>
 
 - 🔭 I’m currently working on **¿En cuánto llega?**
 
